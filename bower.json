@@ -1,5 +1,6 @@
 {
   "name": "drupal-ember-jsonapi-demo",
   "dependencies": {
+    "bootstrap": "^3.3.7"
   }
 }
